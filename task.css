@@ -1,0 +1,300 @@
+body{
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    background-attachment:cover;
+    height: 100%;
+    position: relative;
+}
+.inputs{
+    background-color: tomato;
+    padding: 8%;
+    position: relative;
+}
+.div-1 input{
+    padding: 10px;
+    margin: -10px -6px -16px 26px;
+    background-color: tomato;
+}
+::placeholder{
+    color:white;
+}
+.locked i{
+    position: absolute;
+    margin-left: 5%;
+}
+.linked{
+    margin-left: 178px;
+    margin-top: -18px;
+    font-size: 138%;
+}
+.locked{  
+    margin-left: 30%;
+    font-size: 149%;
+    margin-top: -22px;
+}
+.Holiday{
+    margin: 10%;
+    position: relative;
+    background-color: #fff;
+}
+.container p{
+    float: left;
+    margin-left: 481px;
+    margin-top: -31px;
+}
+.bar-sec{
+    background-color: tomato;
+    width: 3px;
+    height: 600%;
+    position: absolute;
+    margin-left: 39%;
+    margin-top: -11%;
+}
+.container i{
+    color: thistle;
+    font-size: 340%;
+    position: absolute;
+    margin-left: -92%;
+}
+.img-sec{
+    width: 100%;
+    background-color: black;
+   
+}
+.container-2{
+          margin-left: 10%;
+          padding: 5%;
+          margin-left: 5%;
+} 
+img{
+    width: 20%;
+}
+.img-1{
+    display: flex;
+
+}
+.img-2{
+    display: flex;
+}
+ .room1{
+ width: 25%;
+ height: 25%;
+ }
+.rooms-div {
+    font-weight: 500;
+    color: #fff;
+    float: left;
+    margin-left: 60%;
+    margin-top: -30%;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+ .div-4 i{
+    font-size: 51px;
+    margin-left: 86px;
+    margin-top: -7px;
+}
+p{
+    margin-top: 26px;
+    margin-left: -77px;
+}
+h4{
+    margin-left: 62px;
+    color: red;
+}
+button{
+    margin-left: 52px;
+    padding: 10px 18px;
+    background-color: orangered;
+    color: white;
+    letter-spacing: 1px;
+    border-radius: 4px;
+}
+/* start section inter-sec */
+.div-5 {
+    margin-bottom: 8%;
+}
+.div-5 h2{
+    text-transform: capitalize;
+    margin-left: 119px;
+    margin-top: 93px;
+}
+.div-5 i{
+    margin-left: 200px;
+    font-size: 53px;
+}
+.div-5 p{
+        margin-top: 56px;
+        margin-left: -807px;
+        text-align: center;
+        text-transform: capitalize;
+}
+.img-cook img{
+    height: 260px;
+}
+.div-img{
+    background-color: rgb(54, 53, 53);
+    width: 50%;
+}
+.container-4{
+    position: relative;
+}
+.div-img img{
+    width: 36%;
+    height: 36%;
+    margin: 13% 2% 13% 7%;
+}
+.smpl-div{
+    margin-top: -380px;
+    float: right;
+    background-color: rgb(211, 26, 26);
+    width: 50%;
+    position: absolute;
+    margin-left: 50%;
+    padding-bottom: 27px;
+    text-align: center;
+}
+.smpl-div h2{
+    margin-top: 10%;
+    /* position: absolute; */
+    margin-left: 2%;
+    text-transform: capitalize;
+    color: white;
+}
+.smpl-div i{
+    font-size: 53px;
+    color: thistle;
+}
+.smpl-div p{
+    text-align: center;
+    margin-left: 2%;
+    letter-spacing: 2%;
+    margin-top: 10%;
+    text-transform: capitalize;
+}
+.smpl-div button{
+    margin-top: 5%;
+    background-color: white;
+    color: red;
+    font-family: cursive;
+}
+.oll-sec{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.crcl-1{
+    width: 8%;
+    height: 14%;
+    background-color: darkgrey;
+    border-radius: 100%;
+    margin-left: 45%;
+    margin-top: 9%;
+    position: relative;
+}
+.crcl-1 h5{
+    font-size: 675%;
+    margin-top: -60%;
+    position: absolute;
+    margin-left: 25%;
+    color: white;
+}
+.oll-sec h2{
+    font-size: 257%;
+    color: red;
+    margin-right: 1%;
+}
+.oll-sec img{
+    width: 8%;
+    height: 14%;
+}
+.oll-sec h3{
+    text-transform: capitalize;
+    color: red;
+    font-family: sans-serif;
+}
+.oll-sec h4 {
+    color: darkgrey;
+    margin-right: 6%;
+    font-size: 103%;
+}
+.oll-sec p{
+    margin-left: 4%;
+}
+hr{
+    width: 20%;
+}
+::before .oll-sec img {
+    width: 3% solid red;
+}
+.book-div{
+    background-color: rgb(54, 53, 53);
+    position: relative;
+}
+.book-div h2{
+    margin-left: 8%;
+    text-transform: uppercase;
+    color: red;
+    padding-top: 5%;
+}
+.book-div p{
+    text-transform: capitalize;
+    margin-left: 8%;
+    margin-bottom: 5%;
+    color: rgb(223, 212, 204);
+}
+.book-div button{
+    margin-left: 83%;
+    margin-top: -11%;
+    text-transform: capitalize;
+}
+.last-sec{
+    background-color: red;
+}
+.container-8{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 350px;
+
+}
+.touch{
+    width: 100px;
+    height: 100%;
+}
+.touch img{
+    width: 220%;
+    height: 66%;
+}
+.touch h2{
+    text-transform: capitalize;
+    color: rgb(223, 212, 204);
+}
+.jpg-img{
+    width: 37%;
+    height: 37%;
+}
+.touch i{
+    font-size: 128%;
+    color: rgb(223, 212, 204);
+}
+span{
+    float: left;
+}
+.touch h3{
+    width: 37%;
+    height: 37%;
+    padding: 56%;
+    font-size: 276%;
+    text-transform: uppercase;
+    color: wheat;
+}
+.input{
+    margin: -132% 86%;
+    font-size: 58px;
+}
